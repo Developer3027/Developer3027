@@ -1,6 +1,5 @@
-# Mason Roberts
-
-# Projects
+# [Mason Roberts](https://mason-roberts.com)
+Hello! I have have been coding serious for just over a year. Back in the day I played around with HTML, XML and CSS, so returning to it and learning all the new things has been a blast! React was a challenge but is a great deal of fun. Currently, I am learning Java while playing with React, Express, MongoDB, and Okta.
 ## kathryn Roberts
 
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
