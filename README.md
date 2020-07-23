@@ -10,22 +10,18 @@
 # Projects
 ## kathryn Roberts
 
-[![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-
+[![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 [Kathryn Roberts](https://github.com/Developer3027/kathrynroberts-sc48) - Kate decided to run for the House seat 48 in South Carolina and wanted a simple web page that looked good, told her story, and presented information relevant to her area. I was sure to address SEO concerns and inserted meta tags for google, facebook, and twitter.
 
 ## Fathers United
 
-[![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-
+[![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[![Node](https://img.shields.io/badge/NodeJS-v12-informational)](https://nodejs.org/en/)
-
-[![Express](https://img.shields.io/badge/Express-v4-informational)](https://expressjs.com)
-
+[![Node](https://img.shields.io/badge/NodeJS-v12-informational)](https://nodejs.org/en/)&nbsp;&nbsp;
+[![Express](https://img.shields.io/badge/Express-v4-informational)](https://expressjs.com)&nbsp;&nbsp;
 [![React](https://img.shields.io/badge/React-v16-informational)](https://reactjs.org)
 
 [Fathers United](https://github.com/Developer3027/FathersUnited) - This non profit based out of Charlotte, NC was looking for a web developer. I have been working with them over the past 6 months on design and tech. This is the mock up that is a work in progress. The main site is built in HTML and CSS. Currently I am working on providing a social network and learning center.
