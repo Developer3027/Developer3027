@@ -1,6 +1,8 @@
 # [Mason Roberts](https://mason-roberts.com)
+
 Hello! I have have been coding serious for just over a year. Back in the day I played around with HTML, XML and CSS, so returning to it and learning all the new things has been a blast! React was a challenge but is a great deal of fun. Currently, I am learning Java while playing with React, Express, MongoDB, and Okta.
-## kathryn Roberts 😄
+
+## Kathryn Roberts 😄
 
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -17,6 +19,7 @@ Hello! I have have been coding serious for just over a year. Back in the day I p
 [![React](https://img.shields.io/badge/React-v16-informational)](https://reactjs.org)
 
 [Fathers United](https://github.com/Developer3027/FathersUnited) - This non profit based out of Charlotte, NC was looking for a web developer. I have been working with them over the past 6 months on design and tech. This is the mock up that is a work in progress. The main site is built in HTML and CSS. Currently I am working on providing a social network and learning center.
+
 <!--
 **Developer3027/Developer3027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
