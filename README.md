@@ -5,7 +5,7 @@
 
 #### Portfolio - [Mason Roberts](https://mason-roberts.com)
 
-#### Contact Me - [dev3027@mason-roberts.com](dev3027@mason-roberts.com)
+#### Contact Me - ```dev3027@mason-roberts.com```
 
 # Projects
 ## kathryn Roberts
