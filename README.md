@@ -1,12 +1,5 @@
 # Mason Roberts
 
-### Full Time Student and Father
-## Full Stack Web Developer
-
-#### Portfolio - [Mason Roberts](https://mason-roberts.com)
-
-#### Contact Me - ```dev3027@mason-roberts.com```
-
 # Projects
 ## kathryn Roberts
 
