@@ -1,13 +1,13 @@
 # [Mason Roberts](https://mason-roberts.com)
 Hello! I have have been coding serious for just over a year. Back in the day I played around with HTML, XML and CSS, so returning to it and learning all the new things has been a blast! React was a challenge but is a great deal of fun. Currently, I am learning Java while playing with React, Express, MongoDB, and Okta.
-## kathryn Roberts
+## kathryn Roberts 😄
 
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 [Kathryn Roberts](https://github.com/Developer3027/kathrynroberts-sc48) - Kate decided to run for the House seat 48 in South Carolina and wanted a simple web page that looked good, told her story, and presented information relevant to her area. I was sure to address SEO concerns and inserted meta tags for google, facebook, and twitter.
 
-## Fathers United
+## Fathers United 😄
 
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)
