@@ -3,6 +3,13 @@
 Hello! I have have been coding serious for just over a year. Back in the day I played around with HTML, XML and CSS, so returning to it and learning all the new things has been a blast! React was a challenge but is a great deal of fun. Currently, I am learning Java while playing with React, Express, MongoDB, and Okta.
 
 <!--START_SECTION:waka-->
+```text
+Markdown     4 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   37.28 % 
+CSS          3 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+JSX          2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   19.05 % 
+JavaScript   58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+HTML         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+```
 <!--END_SECTION:waka-->
 
 ## Kathryn Roberts 😄
