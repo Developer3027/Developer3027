@@ -2,6 +2,8 @@
 
 Hello! I have have been coding serious for just over a year. Back in the day I played around with HTML, XML and CSS, so returning to it and learning all the new things has been a blast! React was a challenge but is a great deal of fun. Currently, I am learning Java while playing with React, Express, MongoDB, and Okta.
 
+I use and enjoy VScode as my IDE. It has many helpful features right out of the box, that make coding easier and enjoyable. One of the things I appreciate about it's design are the extensions. I utilize WakaTime to gain a better grasp of how much time I spend on projects and what tech I focus on. Here you can see what I have done this week.
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
