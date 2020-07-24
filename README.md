@@ -2,7 +2,7 @@
 
 Hello! I have have been coding serious for just over a year. Back in the day I played around with HTML, XML and CSS, so returning to it and learning all the new things has been a blast! React was a challenge but is a great deal of fun. Currently, I am learning Java while playing with React, Express, MongoDB, and Okta.
 
-[![Mason's github stats](https://github-readme-stats.vercel.app/api?username=developer3027)](https://github.com/developer3027/github-readme-stats)
+[![Mason's's github stats](https://github-readme-stats.vercel.app/api?username=Developer3027&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Kathryn Roberts 😄
 
