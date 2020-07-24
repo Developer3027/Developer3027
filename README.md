@@ -5,6 +5,13 @@ Hello! I have have been coding serious for just over a year. Back in the day I p
 I use and enjoy VScode as my IDE. It has many helpful features right out of the box, that make coding easier and enjoyable. One of the things I appreciate about it's design are the extensions. I utilize WakaTime to gain a better grasp of how much time I spend on projects and what tech I focus on. Here you can see what I have done this week.
 
 <!--START_SECTION:waka-->
+```text
+Markdown     4 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   37.28 % 
+CSS          3 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+JSX          2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   19.05 % 
+JavaScript   58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+HTML         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+```
 <!--END_SECTION:waka-->
 
 ## Kathryn Roberts 😄
