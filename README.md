@@ -6,8 +6,7 @@ I use and enjoy VScode as my IDE. It has many helpful features right out of the 
 
 <!--START_SECTION:waka-->
 ```text
-HTML   7 mins          ████████████████████████░   96.22 % 
-PHP    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+HTML   7 mins          █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
