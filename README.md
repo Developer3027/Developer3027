@@ -6,8 +6,9 @@ I use and enjoy VScode as my IDE. It has many helpful features right out of the 
 
 <!--START_SECTION:waka-->
 ```text
-CSS          3 hrs 55 mins   ████████████████░░░░░░░░░   63.38 % 
-HTML         2 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.62 % 
+CSS          4 hrs 22 mins   ██████████████▒░░░░░░░░░░   56.91 % 
+HTML         2 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.96 % 
+JavaScript   1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
 ```
 <!--END_SECTION:waka-->
 
