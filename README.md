@@ -1,6 +1,6 @@
 # [Mason Roberts](https://mason-roberts.com)
 
-Hello! I have have been coding serious for just over a year. Back in the day I played around with HTML, XML and CSS, so returning to it and learning all the new things has been a blast! React was a challenge but is a great deal of fun. Currently, I am learning Java while playing with React, Express, MongoDB, and Okta.
+Hello! I have have been coding serious for just over a year. Back in the day I played around with HTML, XML and CSS, so returning to it and learning all the new things has been a blast! React was a challenge but is a great deal of fun. Currently, I am focused on React while playing with, Express, MongoDB, and Okta.
 
 I use and enjoy VScode as my IDE. It has many helpful features right out of the box, that make coding easier and enjoyable. One of the things I appreciate about it's design are the extensions. I utilize WakaTime to gain a better grasp of how much time I spend on projects and what tech I focus on. Here you can see what I have done this week.
 
@@ -14,12 +14,12 @@ YAML         2 hrs 42 mins   ███░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## Kathryn Roberts 😄
+## Music Found 😄
 
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Kathryn Roberts](https://github.com/Developer3027/kathrynroberts-sc48) - Kate decided to run for the House seat 48 in South Carolina and wanted a simple web page that looked good, told her story, and presented information relevant to her area. I was sure to address SEO concerns and inserted meta tags for google, facebook, and twitter.
+[Music Found](https://cocky-cori-7cae1e.netlify.app) - Music Found is a my most current work. It is a single page built in html and css with a touch of javascript. Designed to showcase a song it features a video background, sidebar nav, modified audio file and a working eq display.
 
 ## Fathers United 😄
 
