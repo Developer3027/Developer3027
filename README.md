@@ -19,7 +19,7 @@ YAML         2 hrs 42 mins   ███░░░░░░░░░░░░░░
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Music Found](https://cocky-cori-7cae1e.netlify.app) - Music Found is a my most current work. It is a single page built in html and css with a touch of javascript. Designed to showcase a song it features a video background, sidebar nav, modified audio file and a working eq display.
+[Music Found](https://github.com/Developer3027/hero-video) - Music Found is a my most current work. It is a single page built in html and css with a touch of javascript. Designed to showcase a song it features a video background, sidebar nav, modified audio file and a working eq display.
 
 ## Fathers United 😄
 
