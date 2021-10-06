@@ -6,11 +6,11 @@ I use and enjoy VScode as my IDE. It has many helpful features right out of the 
 
 <!--START_SECTION:waka-->
 ```text
-JSON         53 mins         ██████████▓░░░░░░░░░░░░░░   42.42 % 
-JavaScript   20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-JSX          18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Markdown     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-HTML         13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+JSX          1 hr 34 mins    ██████████░░░░░░░░░░░░░░░   39.38 % 
+JSON         1 hr 6 mins     ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+JavaScript   42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Markdown     14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+HTML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 ```
 <!--END_SECTION:waka-->
 
