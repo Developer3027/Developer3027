@@ -9,7 +9,7 @@ I use and enjoy VScode as my IDE. It has many helpful features right out of the 
 JSX          1 hr 46 mins    ████████░░░░░░░░░░░░░░░░░   32.51 % 
 JSON         1 hr 19 mins    ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
 JavaScript   1 hr 13 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.51 % 
-Markdown     37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Markdown     37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 HTML         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 <!--END_SECTION:waka-->
