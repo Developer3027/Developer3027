@@ -6,8 +6,8 @@ I use and enjoy VScode as my IDE. It has many helpful features right out of the 
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   6 hrs 29 mins   ██████████████████████░░░   88.14 % 
-Python     52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Markdown   5 hrs 45 mins   █████████████████████▓░░░   86.83 % 
+Python     52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 % 
 ```
 <!--END_SECTION:waka-->
 
