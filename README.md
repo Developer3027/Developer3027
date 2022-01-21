@@ -20,13 +20,18 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;&nbsp;
+
 [![ReactJs](https://img.shields.io/badge/React-v17-informational)](https://reactjs.org)&nbsp;&nbsp;
 [![NextJs](https://img.shields.io/badge/NextJs-v12-informational)](https://nextjs.org)&nbsp;&nbsp;
+
+[![Node](https://img.shields.io/badge/NodeJS-v12-informational)](https://nodejs.org/en/)&nbsp;&nbsp;
+[![Express](https://img.shields.io/badge/Express-v4-informational)](https://expressjs.com)&nbsp;&nbsp;
+
 [![AWS](https://img.shields.io/static/v1?label=AWS&message=services&color=orange)](https://aws.amazon.com/console/)
 
 [Hermit Plus code](https://github.com/Hermit-Plus) - Hermit Plus is a personal project. It gathers all the hermits in one place. Like Disney Plus but for hermits. Hermits are YouTube content creators that have created characters that build and play Minecraft. This project organizes and serves those url's with more of the feel of a streaming service rather than like YouTube.
 
-[Hermit Plus landing](htps://www.hermitplus.com) 
+[Hermit Plus landing](https://www.hermitplus.com) 
 
 ## Fathers United 😄
 
