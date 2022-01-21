@@ -30,7 +30,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 [![AWS](https://img.shields.io/static/v1?label=AWS&message=services&color=orange)](https://aws.amazon.com/console/)
 
-[Hermit Plus Design](https://www.figma.com/file/1rA5nLglFEz6F1453wKwkG/Hermit-Plus?node-id=0%3A1) - View the Figma design. This file has the solution diagram, and is a working design the app is being built from.
+[Hermit Plus design](https://www.figma.com/file/1rA5nLglFEz6F1453wKwkG/Hermit-Plus?node-id=0%3A1) - View the Figma design. This file has the solution diagram, and is a working design the app is being built from.
 
 [Hermit Plus code](https://github.com/Hermit-Plus) - Hermit Plus is a personal project. It gathers all the hermits in one place. Like Disney Plus but for hermits. Hermits are YouTube content creators that have created characters that build and play Minecraft. This project organizes and serves those url's with more of the feel of a streaming service rather than like YouTube.
 
