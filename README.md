@@ -1,6 +1,8 @@
 # [Mason Roberts](https://mason-roberts.com)
 
-Hello! I have have been coding serious for just over a year. Back in the day I played around with HTML, XML and CSS, so returning to it and learning all the new things has been a blast! React was a challenge but is a great deal of fun. Currently, I am focused on React while playing with, Express, MongoDB, and Okta.
+Welcome. I am a full stack web developer with about 3 years experience. I work in React, Express, and MongoDB (MERN) stack. I am working on AWS Solution Architect associate and Developer associate certification. I keep busy coding and learning both design and development by building amd maintaining personal projects. I invite you to review the information below. My linked in profile at;
+
+[LinkedIn](https://www.linkedin.com/in/mason-roberts-3027)
 
 I use and enjoy VScode as my IDE. It has many helpful features right out of the box, that make coding easier and enjoyable. One of the things I appreciate about it's design are the extensions. I utilize WakaTime to gain a better grasp of how much time I spend on projects and what tech I focus on. Here you can see what I have done this week.
 
@@ -13,7 +15,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## Music Found 😄
+## Music Found ❤
 
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)
