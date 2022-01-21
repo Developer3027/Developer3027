@@ -15,10 +15,11 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## Music Found ❤
+## Hermit Plus ❤
 
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
-[![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;&nbsp;
+[![React](https://img.shields.io/badge/React-v16-informational)](https://reactjs.org)
 
 [Music Found](https://github.com/Developer3027/hero-video) - Music Found is a my most current work. It is a single page built in html and css with a touch of javascript. Designed to showcase a song it features a video background, sidebar nav, modified audio file and a working eq display.
 
@@ -29,7 +30,9 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 [![Node](https://img.shields.io/badge/NodeJS-v12-informational)](https://nodejs.org/en/)&nbsp;&nbsp;
 [![Express](https://img.shields.io/badge/Express-v4-informational)](https://expressjs.com)&nbsp;&nbsp;
-[![React](https://img.shields.io/badge/React-v16-informational)](https://reactjs.org)
+[![React](https://img.shields.io/badge/React-v16-informational)](https://reactjs.org)&nbsp;&nbsp;
+
+[![AWS](https://img.shields.io/badge/AAWS-aws-services-orange)](https://aws.amazon.com/console/)
 
 [Fathers United](https://github.com/Developer3027/FathersUnited) - This non profit based out of Charlotte, NC was looking for a web developer. I have been working with them over the past 6 months on design and tech. This is the mock up that is a work in progress. The main site is built in HTML and CSS. Currently I am working on providing a social network and learning center.
 
