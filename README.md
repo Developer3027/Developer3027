@@ -16,7 +16,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ## Hermit Plus ❤
-👯 - looking to coloborate - visit site
+👯 - looking to coloborate - visit landing
 
 [![Figma](https://img.shields.io/badge/Figma-design-blueviolet)](https://www.figma.com/file/1rA5nLglFEz6F1453wKwkG/Hermit-Plus?node-id=0%3A1)&nbsp;&nbsp;
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
@@ -32,18 +32,9 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 [Hermit Plus code](https://github.com/Hermit-Plus) - Hermit Plus is a personal project. It gathers all the hermits in one place. Like Disney Plus but for hermits. Hermits are YouTube content creators that have created characters that build and play Minecraft. This project organizes and serves those url's with more of the feel of a streaming service rather than like YouTube.
 
-[Hermit Plus landing](https://www.hermitplus.com) 
+[Hermit Plus landing](https://www.hermitplus.com) - Landing page to promote app. Built in ReactJs, put in AWS S3, distributed with Cloudfront. Site is highly available with low latency and responsive.
 
-## Fathers United 😄
-
-[![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
-[![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[![Node](https://img.shields.io/badge/NodeJS-v12-informational)](https://nodejs.org/en/)&nbsp;&nbsp;
-[![Express](https://img.shields.io/badge/Express-v4-informational)](https://expressjs.com)&nbsp;&nbsp;
-[![React](https://img.shields.io/badge/React-v16-informational)](https://reactjs.org)&nbsp;&nbsp;
-
-[Fathers United](https://github.com/Developer3027/FathersUnited) - This non profit based out of Charlotte, NC was looking for a web developer. I have been working with them over the past 6 months on design and tech. This is the mock up that is a work in progress. The main site is built in HTML and CSS. Currently I am working on providing a social network and learning center.
+[Hermit Plus tech info](https://github.com/Developer3027/hermit_contact_form_aws) - Repo houses a solution diagram for the tech used, the code used, as well as  information and guidelines for what I did.
 
 <!--
 **Developer3027/Developer3027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
