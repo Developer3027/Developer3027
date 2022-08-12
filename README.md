@@ -9,11 +9,11 @@ I use and enjoy VScode as my IDE. It has many helpful features right out of the 
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   23 hrs 1 min    █████████████████░░░░░░░░   68.36 %
-JavaScript   4 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-CSS          4 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-HTML         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Other        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TypeScript   15 hrs 56 mins  ██████████████▒░░░░░░░░░░   57.38 %
+JavaScript   5 hrs 52 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+CSS          2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Markdown     2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Other        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
