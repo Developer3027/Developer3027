@@ -1,10 +1,15 @@
-# [Mason Roberts](https://mason-roberts.com)
+# [Mason Roberts](https://dev-mason-roberts.com)
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&width=475&lines=Mason+Roberts+-+Full+Stack+Developer;AWS+%2F+React+%2F+Angular+%2F+Next+%2F+Tailwind" alt="Typing SVG" /></a>
+</p>
 
-Welcome. I am a full stack web developer with about 3 years experience. I work in React, Express, and MongoDB (MERN) stack. I am working on AWS Solution Architect associate and Developer associate certification. I keep busy coding and learning both design and development by building amd maintaining personal projects. I invite you to review the information below. My linked in profile at;
+Welcome. I am a full stack web developer with about 3 years experience. Working with Node, React, Express, MongoDB (MERN), DynamoDB (DERN) stacks, Angular, Java, Python, C and Tailwind. I Love the cloud and am working on AWS Solution Architect associate. Familiar with AWS, Azure, and Firebase. I keep busy coding and learning both design and development by building amd maintaining personal projects. I invite you to review the information below.
 
-[LinkedIn](https://www.linkedin.com/in/mason-roberts-3027)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=social%20network&color=blue)](https://www.linkedin.com/in/mason-roberts-3027)&nbsp;
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=Erudition%20Server&color=blue)](https://discord.gg/XpzesFqhnX)&nbsp;&nbsp;
 
-I use and enjoy VScode as my IDE. It has many helpful features right out of the box, that make coding easier and enjoyable. One of the things I appreciate about it's design are the extensions. I utilize WakaTime to gain a better grasp of how much time I spend on projects and what tech I focus on. Here you can see what I have done this week.
+I use and enjoy VScode and InteliJ. I use Obsidian to organize my notes. I use Click Up to organize my projects. I utilize WakaTime to gain a better grasp of how much time I spend on projects and what tech I focus on. Here you can see what I have done this week.
 
 <!--START_SECTION:waka-->
 
@@ -42,11 +47,16 @@ Git Config   5 mins          ░░░░░░░░░░░░░░░░░
 
 [Hermit Plus tech info](https://github.com/Developer3027/hermit_contact_form_aws) - Repo houses a solution diagram for the tech used, the code used, as well as  information and guidelines for what I did.
 
+## Shmotun Books
+
+This project is currently in a private repo on Gitlab. Find the [demo site](https://book-shop-one.vercel.app) up on Vercel. Building with Next. Design and case study found on [Behance](https://www.behance.net/gallery/107569655/LIBRARY-PUBLISHING-HOUSE).
+
 <!--
-**Developer3027/Developer3027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer3027/Developer3027** Mason Roberts working on the code.
 
 Here are some ideas to get you started:
 
+- ✨
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
