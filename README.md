@@ -49,6 +49,8 @@ Git Config   5 mins          ░░░░░░░░░░░░░░░░░
 
 ## Shmotun Books
 
+![Screenshot_20221011_094152](https://user-images.githubusercontent.com/44660994/195761489-44fcb399-c481-46d6-827f-e82c58e99c43.png)
+
 This project is currently in a private repo on Gitlab. Find the [demo site](https://book-shop-one.vercel.app) up on Vercel. Building with Next. Design and case study found on [Behance](https://www.behance.net/gallery/107569655/LIBRARY-PUBLISHING-HOUSE).
 
 <!--
