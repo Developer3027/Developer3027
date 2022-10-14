@@ -1,4 +1,4 @@
-# [Mason Roberts](https://dev-mason-roberts.com)
+# [Mason Roberts](https://dev-mason-roberts.com) [![email](https://img.shields.io/static/v1?label=email&message=mroberts@dev-mason-roberts.com&color=blue)](https://www.dev-mason-roberts.com)&nbsp;
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&width=475&lines=Mason+Roberts+-+Full+Stack+Developer;AWS+%2F+React+%2F+Angular+%2F+Next+%2F+Tailwind" alt="Typing SVG" /></a>
@@ -67,7 +67,7 @@ Meet a young man from Africa who wanted a place to sell his books online. This p
 
 ![Screenshot_20221014_005759](https://user-images.githubusercontent.com/44660994/195765729-f57e9f8a-0ec9-4b81-8050-e56ee4e238fc.png)
 
-I am a Navy vet and I love sailing. I never get to do it. I have fallen in love with a few sailboat building channels. This project focuses on Salt and Tar but is part of the bigger picture. It is a concept that will include several such sites grouped into one, much like hermit plus.
+I am a Navy vet and I love sailing. I never get to do it. I have fallen in love with a few sailboat building channels. This project focuses on Salt and Tar but is part of the bigger picture. It is a concept that will include several such sites grouped into one, much like hermit plus. I am currently building with Amplify. You can get an idea from my [portfolio](https://github.com/Developer3027/mason-roberts) as the salt and tar concept is there. The project is set up on [GitLab](https://gitlab.com/swabbie/salt-and-oak)
 
 ## Erudition
 
@@ -79,7 +79,7 @@ I am a Navy vet and I love sailing. I never get to do it. I have fallen in love 
 
 ![Screenshot_20221014_004349](https://user-images.githubusercontent.com/44660994/195764392-221181d8-3659-49b5-a8fc-efa5e3b1a3f5.png)
 
-Erudition currently is a site built off my cliff notes from studing for SAA-C02. This site will be expanded to include free material for self taught web development and computer science resources. Has a discord server started in testing for future features. Currently you can review notes on certification topics or take a practice exam. Take a quick quiz before access to notes to get your mind thinking about the topic.
+[Erudition](https://github.com/Developer3027/erudition-saa-c02) currently is a site built off my cliff notes from studing for SAA-C02. This site will be expanded to include free material for self taught web development and computer science resources. Has a discord server started in testing for future features. Currently you can review notes on certification topics or take a practice exam. Take a quick quiz before access to notes to get your mind thinking about the topic. [Erudition](https://erudition-saa-c02.vercel.app) is running on Vercel.
 
 <!--
 **Developer3027/Developer3027** Mason Roberts working on the code.
