@@ -25,19 +25,17 @@ Git Config   5 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ## Hermit Plus ❤
-👯 - looking to coloborate - visit landing
+👯 - looking to coloborate - visit the [landing page](https://www.hermitplus.com)
 
 [![Figma](https://img.shields.io/badge/Figma-design-blueviolet)](https://www.figma.com/file/1rA5nLglFEz6F1453wKwkG/Hermit-Plus?node-id=0%3A1)&nbsp;&nbsp;
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-Cascade_Style_Sheet_v3-informational)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;&nbsp;
 
-[![ReactJs](https://img.shields.io/badge/React-v17-informational)](https://reactjs.org)&nbsp;&nbsp;
-[![NextJs](https://img.shields.io/badge/NextJs-v12-informational)](https://nextjs.org)&nbsp;&nbsp;
-
-[![Node](https://img.shields.io/badge/NodeJS-v12-informational)](https://nodejs.org/en/)&nbsp;&nbsp;
-[![Express](https://img.shields.io/badge/Express-v4-informational)](https://expressjs.com)&nbsp;&nbsp;
-
+[![NextJs](https://img.shields.io/badge/NextJs-v12-informational)](https://nextjs.org)&nbsp;
+[![Node](https://img.shields.io/badge/NodeJS-v12-informational)](https://nodejs.org/en/)&nbsp;
 [![AWS](https://img.shields.io/static/v1?label=AWS&message=services&color=orange)](https://aws.amazon.com/console/)
+
+![Screenshot_20221012_093500](https://user-images.githubusercontent.com/44660994/195762837-4c174cf2-92e6-44ed-a25a-8af2b16aa47e.png)
 
 [Hermit Plus design](https://www.figma.com/file/1rA5nLglFEz6F1453wKwkG/Hermit-Plus?node-id=0%3A1) - View the Figma design. This file has the solution diagram, and is a working design the app is being built from.
 
@@ -48,6 +46,12 @@ Git Config   5 mins          ░░░░░░░░░░░░░░░░░
 [Hermit Plus tech info](https://github.com/Developer3027/hermit_contact_form_aws) - Repo houses a solution diagram for the tech used, the code used, as well as  information and guidelines for what I did.
 
 ## Shmotun Books
+
+[![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-TailwindCSS_v3-informational)](https://tailwindcss.com)&nbsp;&nbsp;
+
+[![NextJs](https://img.shields.io/badge/NextJs-v12-informational)](https://nextjs.org)&nbsp;
+[![AWS](https://img.shields.io/static/v1?label=AWS&message=services&color=orange)](https://aws.amazon.com/console/)
 
 ![Screenshot_20221011_094152](https://user-images.githubusercontent.com/44660994/195761489-44fcb399-c481-46d6-827f-e82c58e99c43.png)
 
