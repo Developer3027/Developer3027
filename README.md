@@ -55,7 +55,19 @@ Git Config   5 mins          ░░░░░░░░░░░░░░░░░
 
 ![Screenshot_20221011_094152](https://user-images.githubusercontent.com/44660994/195761489-44fcb399-c481-46d6-827f-e82c58e99c43.png)
 
-This project is currently in a private repo on Gitlab. Find the [demo site](https://book-shop-one.vercel.app) up on Vercel. Building with Next. Design and case study found on [Behance](https://www.behance.net/gallery/107569655/LIBRARY-PUBLISHING-HOUSE).
+Meet a young man from Africa who wanted a place to sell his books online. This project sprang from talks with him. Project is currently in a private repo on Gitlab. Find the [demo site](https://book-shop-one.vercel.app) up on Vercel. Building with Next. Design and case study found on [Behance](https://www.behance.net/gallery/107569655/LIBRARY-PUBLISHING-HOUSE).
+
+## Erudition
+
+[![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-TailwindCSS_v3-informational)](https://tailwindcss.com)&nbsp;&nbsp;
+
+[![NextJs](https://img.shields.io/badge/NextJs-v12-informational)](https://nextjs.org)&nbsp;
+[![AWS](https://img.shields.io/static/v1?label=AWS&message=services&color=orange)](https://aws.amazon.com/console/)
+
+![Screenshot_20221014_004349](https://user-images.githubusercontent.com/44660994/195764392-221181d8-3659-49b5-a8fc-efa5e3b1a3f5.png)
+
+Erudition currently is a site built off my cliff notes from studing for SAA-C02. This site will be expanded to include free material for self taught web development and computer science resources. Has a discord server started in testing for future features. Currently you can review notes on certification topics or take a practice exam. Take a quick quiz before access to notes to get your mind thinking about the topic.
 
 <!--
 **Developer3027/Developer3027** Mason Roberts working on the code.
