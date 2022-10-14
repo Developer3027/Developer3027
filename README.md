@@ -57,6 +57,18 @@ Git Config   5 mins          ░░░░░░░░░░░░░░░░░
 
 Meet a young man from Africa who wanted a place to sell his books online. This project sprang from talks with him. Project is currently in a private repo on Gitlab. Find the [demo site](https://book-shop-one.vercel.app) up on Vercel. Building with Next. Design and case study found on [Behance](https://www.behance.net/gallery/107569655/LIBRARY-PUBLISHING-HOUSE).
 
+## Salt and Oak
+
+[![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-TailwindCSS_v3-informational)](https://tailwindcss.com)&nbsp;&nbsp;
+
+[![NextJs](https://img.shields.io/badge/NextJs-v12-informational)](https://nextjs.org)&nbsp;
+[![AWS](https://img.shields.io/static/v1?label=AWS&message=services&color=orange)](https://aws.amazon.com/console/)
+
+![Screenshot_20221014_005759](https://user-images.githubusercontent.com/44660994/195765729-f57e9f8a-0ec9-4b81-8050-e56ee4e238fc.png)
+
+I am a Navy vet and I love sailing. I never get to do it. I have fallen in love with a few sailboat building channels. This project focuses on Salt and Tar but is part of the bigger picture. It is a concept that will include several such sites grouped into one, much like hermit plus.
+
 ## Erudition
 
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
