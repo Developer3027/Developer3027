@@ -14,10 +14,7 @@ I use and enjoy VScode and InteliJ. I use Obsidian to organize my notes. I use C
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 mins          ███████████████████████░░   91.75 %
-JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
