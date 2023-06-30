@@ -14,11 +14,11 @@ I use and enjoy VScode and InteliJ. I use Obsidian to organize my notes. I use C
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 21 mins   ███████████████████░░░░░░   75.94 %
-JSON         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Markdown     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Bash         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-HTML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+TypeScript   6 hrs 4 mins    ███████████████████▒░░░░░   77.12 %
+JSON         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Bash         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Markdown     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+HTML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
