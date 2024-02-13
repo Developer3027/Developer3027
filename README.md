@@ -1,7 +1,7 @@
-# [Mason Roberts](https://dev-mason-roberts.com) [![email](https://img.shields.io/static/v1?label=email&message=mroberts@dev-mason-roberts.com&color=blue)](https://www.dev-mason-roberts.com)&nbsp;
+# [Mason Roberts](https://mason-roberts.dev) [![email](https://img.shields.io/static/v1?label=email&message=mrobe18@gmail.com&color=blue)](https://www.mason-roberts.dev)&nbsp;
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&width=475&lines=Mason+Roberts+-+Full+Stack+Developer;AWS+%2F+React+%2F+Angular+%2F+Next+%2F+Tailwind" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&width=475&lines=Mason+Roberts+-+Developer" alt="Typing SVG" /></a>
 </p>
 
 Welcome. I am a full stack web developer with about 3 years experience. Working with Node, React, Express, MongoDB (MERN), DynamoDB (DERN) stacks, Angular, Java, Python, C and Tailwind. I Love the cloud and am working on AWS Solution Architect associate. Familiar with AWS, Azure, and Firebase. I keep busy coding and learning both design and development by building amd maintaining personal projects. I invite you to review the information below.
