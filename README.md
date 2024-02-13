@@ -13,9 +13,7 @@ I use and enjoy VScode and InteliJ. I use Obsidian to organize my notes. I use C
 
 <!--START_SECTION:waka-->
 
-```txt
-No activity tracked
-```
+<figure><embed src="https://wakatime.com/share/@Developer3027/d5a073ac-b72d-4209-a0a4-b24e38a6098b.svg"></embed></figure>
 
 <!--END_SECTION:waka-->
 
