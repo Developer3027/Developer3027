@@ -12,8 +12,78 @@ Welcome. I am a full stack web developer with about 3 years experience. Working 
 I use and enjoy VScode and InteliJ. I use Obsidian to organize my notes. I use Click Up to organize my projects. I utilize WakaTime to gain a better grasp of how much time I spend on projects and what tech I focus on. Here you can see what I have done this week.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C958%20hrs%2020%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 257.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 91 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                567 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+🌆 Daytime                1214 commits        █████████░░░░░░░░░░░░░░░░   35.73 % 
+🌃 Evening                685 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+🌙 Night                  932 commits         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   650 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Tuesday                  344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Wednesday                684 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Thursday                 327 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Friday                   857 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+Saturday                 150 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Sunday                   386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Ruby                     1 hr 15 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Ruby                     1 hr 15 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               43 repos            ████████████████░░░░░░░░░   64.18 % 
+HTML                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Developer3027/Developer3027/master/assets/bar_graph.png)
+
+
+ Last Updated on 13/02/2024 20:33:47 UTC
 <!--END_SECTION:waka-->
 
 ## Hermit Plus ❤
