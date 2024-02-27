@@ -14,13 +14,11 @@ I use and enjoy VScode and InteliJ. I use Click Up to organize my projects. I ut
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C970%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 257.2 kB Used in GitHub's Storage 
- > 
-> 🏆 13 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -91,7 +89,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Developer3027/Developer3027/master/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2024 18:35:00 UTC
+ Last Updated on 27/02/2024 18:36:12 UTC
 <!--END_SECTION:waka-->
 
 ## Hermit Plus ❤
