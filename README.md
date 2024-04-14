@@ -12,8 +12,6 @@ Welcome. I am an automotive tech by day. I have been learning development over t
 I use and enjoy VScode and have used InteliJ. I use Click Up to organize my projects. I utilize WakaTime to gain a better grasp of how much time I spend on projects and what tech I focus on. Here you can see what I have done this week.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C043%20hrs%2016%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -29,21 +27,21 @@ I use and enjoy VScode and have used InteliJ. I use Click Up to organize my proj
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                583 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-🌆 Daytime                1275 commits        █████████░░░░░░░░░░░░░░░░   36.14 % 
-🌃 Evening                736 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-🌙 Night                  934 commits         ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+🌞 Morning                582 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+🌆 Daytime                1271 commits        █████████░░░░░░░░░░░░░░░░   36.11 % 
+🌃 Evening                733 commits         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+🌙 Night                  934 commits         ███████░░░░░░░░░░░░░░░░░░   26.53 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   651 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Tuesday                  361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Wednesday                702 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Thursday                 356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Friday                   899 commits         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Saturday                 150 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Sunday                   409 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Monday                   651 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Tuesday                  361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Wednesday                702 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Thursday                 353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Friday                   896 commits         ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Saturday                 150 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Sunday                   407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 ```
 
 
@@ -85,7 +83,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Developer3027/Developer3027/master/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2024 18:35:09 UTC
+ Last Updated on 14/04/2024 23:00:59 UTC
 <!--END_SECTION:waka-->
 
 ## Hermit Plus ❤
