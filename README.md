@@ -12,6 +12,8 @@ Welcome. I am an automotive tech by day. I have been learning development over t
 I use and enjoy VScode and have used InteliJ. I use Click Up to organize my projects. I utilize WakaTime to gain a better grasp of how much time I spend on projects and what tech I focus on. Here you can see what I have done this week.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C045%20hrs%201%20min-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -51,19 +53,19 @@ Sunday                   407 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-ERB                      6 hrs 35 mins       ███████████████░░░░░░░░░░   60.79 % 
-Ruby                     2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-JavaScript               1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+ERB                      8 hrs 9 mins        █████████████░░░░░░░░░░░░   52.77 % 
+Ruby                     5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
+JavaScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 51 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-milk                     10 hrs 51 mins      █████████████████████████   100.00 % 
+milk                     15 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +85,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Developer3027/Developer3027/master/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 23:00:59 UTC
+ Last Updated on 15/04/2024 18:37:33 UTC
 <!--END_SECTION:waka-->
 
 ## Hermit Plus ❤
