@@ -12,7 +12,7 @@ Welcome. I am an automotive tech by day. I have been learning development over t
 I use and enjoy VScode and have used InteliJ. I use Click Up to organize my projects. I utilize WakaTime to gain a better grasp of how much time I spend on projects and what tech I focus on. Here you can see what I have done this week.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C156%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C157%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,18 +53,20 @@ Sunday                   415 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-ERB                      6 hrs 41 mins       ██████████████████████░░░   87.20 % 
-Ruby                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+ERB                      4 hrs 7 mins        ███████████████░░░░░░░░░░   61.00 % 
+Ruby                     1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+YAML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-milk                     7 hrs 40 mins       █████████████████████████   100.00 % 
+milk                     6 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +86,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Developer3027/Developer3027/master/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2024 18:39:55 UTC
+ Last Updated on 29/05/2024 18:38:07 UTC
 <!--END_SECTION:waka-->
 
 ## Hermit Plus ❤
