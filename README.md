@@ -12,7 +12,7 @@ Welcome. I am an automotive tech by day. I have been learning development over t
 I use and enjoy VScode and have used InteliJ. I use Click Up to organize my projects. I utilize WakaTime to gain a better grasp of how much time I spend on projects and what tech I focus on. Here you can see what I have done this week.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C176%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C176%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,22 +55,22 @@ Sunday                   437 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Ruby                     3 hrs 57 mins       ██████████████████░░░░░░░   71.44 % 
-ERB                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-YAML                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Ruby                     3 hrs 46 mins       ███████████████████░░░░░░   76.57 % 
+ERB                      43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog                     4 hrs 35 mins       █████████████████████░░░░   82.89 % 
-milk                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Desktop                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+blog                     4 hrs 9 mins        █████████████████████░░░░   84.38 % 
+milk                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Desktop                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Linux                    5 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Developer3027/Developer3027/master/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2024 18:40:12 UTC
+ Last Updated on 13/06/2024 18:40:46 UTC
 <!--END_SECTION:waka-->
 
 ## Hermit Plus ❤
