@@ -43,16 +43,17 @@ Sunday                   1049 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+ERB                      1 min               ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   67.88 % 
+YAML                     0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rml-portfolio            2 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -68,7 +69,7 @@ TypeScript               5 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 13/12/2025 18:54:27 UTC
+ Last Updated on 14/12/2025 18:55:24 UTC
 <!--END_SECTION:waka-->
 
 ## Hermit Plus ❤
