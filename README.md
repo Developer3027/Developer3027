@@ -14,7 +14,7 @@ I use and enjoy VScode and have used InteliJ. I use Click Up to organize my proj
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C226%20hrs%206%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -68,7 +68,7 @@ TypeScript               5 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 12/06/2026 20:43:57 UTC
+ Last Updated on 13/06/2026 20:10:37 UTC
 <!--END_SECTION:waka-->
 
 ## Hermit Plus ❤
